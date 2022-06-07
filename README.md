@@ -19,4 +19,4 @@
 ![MIT License](https://img.shields.io/github/license/lucasmarcuzo/Projeto-DIO-APP-Portfolio-GitHub)
 
 <div align="right"> <h3> - Obrigado pela visita!✌🏻 </h3> </div> 
-<p align="right"> <img src=""> </h3>
+<p align="right"> <img src="https://visitor-badge.laobi.icu/badge?page_id=lucasmarcuzo/Projeto-DIO-APP-Womens-Football-News"> </h3>
